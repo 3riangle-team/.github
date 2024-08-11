@@ -4,7 +4,7 @@ We specialize in API developement, Website developement and Telegram Bots.
 Paid projects are also accepted!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,fastapi,nodejs,react,docker,linux,bash,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,fastapi,nodejs,react,docker,linux,bash,mongodb,postgresql)](https://skillicons.dev)
 
 **Contact:** mail@3riangle.ir <br>
 **Website:** https://3riangle.ir
